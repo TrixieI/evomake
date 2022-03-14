@@ -1,0 +1,9 @@
+Hello this is a text file and this line needs to be visible
+
+// this is a commented out line and should NOT be visible
+
+regular line again should be visible
+
+/* this is a multi-line comment
+
+and should NOT be visible */
