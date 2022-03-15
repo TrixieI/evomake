@@ -4,7 +4,7 @@
 - [x] Create an upload input
 - [x] Use HTML5 Filereader API to read the txt file and console.log it
 - [ ] Create a function that reads a multi string and removes all single line comments //
-- [ ] Update the function to also remove multi-line comments \*/
+- [x] Update the function to also remove multi-line comments \*/
 - [ ] Add unit tests for the function
 - [ ] Insert function into the React App
 - [x] Display the results on the Output page instead of console.log

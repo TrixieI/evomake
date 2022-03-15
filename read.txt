@@ -7,3 +7,12 @@ regular line again should be visible
 /* this is a multi-line comment
 
 and should NOT be visible */
+
+pew pew
+cha cha
+
+// hellooooo
+
+/* good
+
+bye */
