@@ -4,8 +4,6 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 import ReadFile from "./components/ReadFile";
 import Output from "./components/Output";
 
-export const FileContext = React.createContext();
-
 function App() {
   return (
     <div className="App">
