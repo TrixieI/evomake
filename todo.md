@@ -3,7 +3,7 @@
 - [x] Create a button that allows to navigate from Read to Output
 - [x] Create an upload input
 - [x] Use HTML5 Filereader API to read the txt file and console.log it
-- [ ] Create a function that reads a multi string and removes all single line comments //
+- [x] Create a function that reads a multi string and removes all single line comments //
 - [x] Update the function to also remove multi-line comments \*/
 - [ ] Add unit tests for the function
 - [ ] Insert function into the React App
