@@ -21,10 +21,10 @@ function ReadFile() {
         
       return (
         <>
-        <button onClick={() => {
-          navigate("/output")}}>Go to Output</button>
         <h1>ReadFile component</h1>
           <input type="file" onChange={showFile} />
+        <button onClick={() => {
+          navigate("/output")}}>Go to Output</button>
         </>
       );
 }

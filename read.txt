@@ -5,7 +5,7 @@ Hello this is a text file and this line needs to be visible
 regular line again should be visible
 
 /* this is a multi-line comment
-
+THIS SHOULD NOT BE VISIBLE
 and should NOT be visible */
 
 pew pew
@@ -16,3 +16,5 @@ cha cha
 /* good
 
 bye */
+
+beep beep
